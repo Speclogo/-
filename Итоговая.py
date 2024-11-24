@@ -1,4 +1,3 @@
-
 from tkinter import *
 from tkinter import messagebox as mb
 import requests
@@ -52,4 +51,5 @@ price_label = Label(text="", font=("Arial", 14))
 price_label.pack(padx=10, pady=10)
 
 window.mainloop()
+
 
